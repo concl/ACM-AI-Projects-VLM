@@ -1,6 +1,8 @@
 # ACM-AI-Projects-VLM
 VLM implementation from scratch using PyTorch.
 
+Folder with all previous slides: https://drive.google.com/drive/folders/1jM4AFh0QEgA2OiWdfIi1YiEUtC7GdwQY?usp=sharing 
+
 # Timeline:
 
 ## Week 3 (intro to project)
@@ -36,6 +38,7 @@ Milestone 2: Discuss techniques, OH for finishing their model
 ## Week 9
 (making report)
 Make the presentation for Cyber Symposium
+
 
 
 
