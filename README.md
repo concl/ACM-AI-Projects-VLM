@@ -14,7 +14,7 @@ Meeting: Fill in incomplete code, transition to the text encoder, have in depth 
 
 Async: Try to understand text encoder concepts, how to implement, come with questions
 ## Week 5
-Meeting: Catch up on incomplete code, start on training loop and inference code
+Meeting: Catch up on incomplete code, start on training loop and inference code. Learn about CLIP (Contrastive Learning).
 
 Async: Train your model fully
 ## Week 6 (minimum product)
